@@ -1,2 +1,2 @@
 # OsmMom
-![Build Status](https://github.com/makerdao/osm-mom/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
+[![.github/workflows/tests.yaml](https://github.com/MetricOneDev/osm-mom/actions/workflows/tests.yaml/badge.svg)](https://github.com/MetricOneDev/osm-mom/actions/workflows/tests.yaml)
